@@ -1,8 +1,8 @@
 {
-  "name": "nuxtlify",
+  "name": "veldev",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
+  "description": "Web Development",
+  "author": "Vel Holding",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
